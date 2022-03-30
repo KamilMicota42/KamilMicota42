@@ -1,6 +1,6 @@
 <h1> Hi there future employer, friend or both 👋 <h1>
 <h3>I'm Kamil<h3>
-![banner](https://user-images.githubusercontent.com/85360923/160855480-728758c8-ba40-4ae4-8596-e74d38e52555.jpg)
+![](image/banner.jpg)
 
 
 <!--
