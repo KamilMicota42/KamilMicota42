@@ -1,10 +1,10 @@
-# _Hi there future employer, friend or both 👋_
-## I'm _Kamil_ 
+# _Hi there future employer, friend or both 👋_ 
+I'm _Kamil_ 
 ![](image/banner.png)
  - 📚 I'm second year Computer Science student
- - :computer: Experienced with Python, HTML, CSS, but never stop learning things
- - 
-
+ - :computer: Experienced with Python, HTML, CSS
+ - 🌱 Currently learning DJANGO framework
+ 
 
 > quote
 <!--
