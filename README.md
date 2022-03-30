@@ -1,5 +1,5 @@
 # _Hi there future employer, friend or both 👋_
-## I'm Kamil
+## _I'm Kamil_
 ![](image/banner.jpg)
 
 
