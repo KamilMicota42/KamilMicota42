@@ -1,6 +1,6 @@
 # _Hi there future employer, friend or both 👋_
 ## _I'm Kamil_
-![](image/banner.jpg)
+![](image/banner.png)
 
 
 
