@@ -4,9 +4,10 @@ I'm _Kamil_
  - 📚 I'm second year Computer Science student
  - :computer: Experienced with Python, HTML, CSS
  - 🌱 Currently learning DJANGO framework
- 
+ - :city_sunrise: I'm from Białystok, Poland
 
-> quote
+> “Stay hungry. Stay foolish.”
+> 
 <!--
 **KamilMicota42/KamilMicota42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
