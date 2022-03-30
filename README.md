@@ -1,7 +1,9 @@
 # _Hi there future employer, friend or both 👋_
-## _I'm Kamil_
+## I'm _Kamil_ 
 ![](image/banner.png)
-
+ - 📚 I'm second year Computer Science student
+ - :computer: Experienced with Python, HTML, CSS, but never stop learning things
+ - 
 
 
 > quote
