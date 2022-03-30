@@ -1,8 +1,10 @@
-<h1> Hi there future employer, friend or both 👋 <h1>
-<h3>I'm Kamil<h3>
+# _Hi there future employer, friend or both 👋_
+## I'm Kamil
 ![](image/banner.jpg)
 
 
+
+> quote
 <!--
 **KamilMicota42/KamilMicota42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
