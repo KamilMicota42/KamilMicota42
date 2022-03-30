@@ -6,7 +6,7 @@ I'm _Kamil_
  - 🌱 Currently learning DJANGO framework
  - :boy: 20 years old, he/his
  - :city_sunrise: I'm from Białystok, Poland
- - :mailbox: Contact me at -> kamilmicota42@gmail.com
+## :mailbox: Contact me at -> kamilmicota42@gmail.com
 > “Stay hungry. Stay foolish.”
 > 
 <!--
