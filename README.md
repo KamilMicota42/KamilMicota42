@@ -3,7 +3,7 @@ I'm _Kamil_
 ![](image/banner.png)
  - 📚 I'm second year Computer Science student
  - :computer: Experienced with Python, HTML, CSS
- - 🌱 Currently learning DJANGO framework
+ - 🌱 Currently learning DJANGO and BOOTSTRAP framework
  - :boy: 20 years old
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
