@@ -1,6 +1,5 @@
 # _Hi there future employer, friend or both 👋_ 
 I'm _Kamil_ 
-![](image/banner.png)
  - 📚 I'm second year Computer Science student
  - :computer: Experienced with Python, HTML, CSS, Django, Bootstrap
  - 🌱 Currently grinding JavaScript
