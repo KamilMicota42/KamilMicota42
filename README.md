@@ -1,8 +1,7 @@
 # _Hi there future employer, friend or both 👋_ 
 I'm _Kamil_ 
  - 📚 I'm second year Computer Science student
- - :computer: Experienced with Python, HTML, CSS, Django, Bootstrap
- - 🌱 Currently grinding JavaScript
+ - :computer: Experienced with Python, HTML, CSS, Django, Bootstrap, JavaScript
  - :boy: 20 years old
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
