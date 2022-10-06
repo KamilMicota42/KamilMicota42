@@ -1,6 +1,6 @@
 # _Hi there future employer, friend or both 👋_ 
 I'm _Kamil_ 
- - 📚 I'm second year Computer Science student
+ - 📚 I'm third year Computer Science student
  - :computer: Experienced with Python, HTML, CSS, Django, Bootstrap
  - 🌄 I’m currently learning JavaScript
  - :boy: 20 years old
