@@ -1,8 +1,9 @@
 # _Hi there future employer, friend or both 👋_ 
 I'm _Kamil_ 
  - 📚 I'm third year Computer Science student
- - 🌻 Experienced with: Python, HTML, CSS, Django, Bootstrap, JavaScript 
- - 🌱 Still studying: GSAP, Blender, Three.js
+ - 🌻 Experienced with: Python, HTML, CSS, JavaScript 
+ - ⚡ I worked with: Django, Bootstrap, GSAP, Three.js
+ - 🌱 Still studying: Blender, Three.js
  - :boy: 20 years old
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
