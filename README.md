@@ -1,6 +1,6 @@
 # _Hi there future employer, friend or both 👋_ 
 I'm _Kamil_ 
- - 🔭 I’m currently professionally working with flutter`
+ - 🔭 I’m currently professionally working with flutter
  - 📚 I'm third year Computer Science student
  - 🌻 Experienced with: Python, HTML, CSS, JavaScript 
  - ⚡ I worked with: Django, Bootstrap, GSAP, Three.js
