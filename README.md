@@ -9,7 +9,7 @@ I'm _Kamil_
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
 
-> “Stay hungry. Stay foolish.”
+> “... Stay foolish.”
 <!--
 **KamilMicota42/KamilMicota42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
