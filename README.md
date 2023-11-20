@@ -2,10 +2,10 @@
 I'm _Kamil_ 
  - 🔭 I’m currently professionally working with flutter, Dart
  - 📚 I'm third year Computer Science student
- - 🌻 Experienced with: Python, HTML, CSS, JavaScript 
+ - 🌻 Experienced with: Python, JavaScript 
  - ⚡ I worked with: Django, Bootstrap, GSAP, Three.js
  - 🌱 Still studying: Blender
- - :boy: 21 years old
+ - :boy: 22 years old
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
 
