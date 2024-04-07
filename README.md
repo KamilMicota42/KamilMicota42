@@ -4,7 +4,7 @@ I'm _Kamil_
  - 📚 I just finished bachelor degree
  - 🌻 Experienced with: Flutter, Dart
  - ⚡ I worked with: Python, JavaScript, Django, Bootstrap, GSAP, Three.js
- - 🌱 Still studying: VisionOS
+ - 🌱 Still studying: Swift and SwiftUI for VisionOS
  - :boy: 22 years old
  - :city_sunrise: I'm from Białystok, Poland
 ### :mailbox: Contact me at -> kamilmicota42@gmail.com
